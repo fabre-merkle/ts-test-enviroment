@@ -2,7 +2,7 @@
   "semantic": {
     "fg": {
       "default": {
-        "value": "#ca1e1e",
+        "value": "#ffffff",
         "type": "color"
       },
       "muted": {
