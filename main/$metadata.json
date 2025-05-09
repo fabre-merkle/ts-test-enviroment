@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Light/Light",
+    "Dark/Dark",
+    "Size/Mode 1",
+    "token-layout/desk",
+    "token-layout/mob"
+  ]
+}

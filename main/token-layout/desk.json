@@ -1,0 +1,86 @@
+{
+  "pad": {
+    "2xs": {
+      "value": "{unit-2}",
+      "type": "dimension"
+    },
+    "xs": {
+      "value": "{unit-3}",
+      "type": "dimension"
+    },
+    "sm": {
+      "value": "{unit-4}",
+      "type": "dimension"
+    },
+    "md": {
+      "value": "{unit-5}",
+      "type": "dimension"
+    },
+    "lg": {
+      "value": "{unit-6}",
+      "type": "dimension"
+    },
+    "xl": {
+      "value": "{unit-7}",
+      "type": "dimension"
+    },
+    "2xl": {
+      "value": "{unit-8}",
+      "type": "dimension"
+    },
+    "3xl": {
+      "value": "{unit-9}",
+      "type": "dimension"
+    },
+    "4xl": {
+      "value": "{unit-10}",
+      "type": "dimension"
+    },
+    "5xl": {
+      "value": "{unit-12}",
+      "type": "dimension"
+    }
+  },
+  "gap": {
+    "2xs": {
+      "value": "{unit-2}",
+      "type": "dimension"
+    },
+    "xs": {
+      "value": "{unit-3}",
+      "type": "dimension"
+    },
+    "sm": {
+      "value": "{unit-4}",
+      "type": "dimension"
+    },
+    "md": {
+      "value": "{unit-5}",
+      "type": "dimension"
+    },
+    "lg": {
+      "value": "{unit-6}",
+      "type": "dimension"
+    },
+    "xl": {
+      "value": "{unit-7}",
+      "type": "dimension"
+    },
+    "2xl": {
+      "value": "{unit-8}",
+      "type": "dimension"
+    },
+    "3xl": {
+      "value": "{unit-9}",
+      "type": "dimension"
+    },
+    "4xl": {
+      "value": "{unit-10}",
+      "type": "dimension"
+    },
+    "5xl": {
+      "value": "{unit-12}",
+      "type": "dimension"
+    }
+  }
+}

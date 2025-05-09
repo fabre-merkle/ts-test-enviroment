@@ -1,0 +1,50 @@
+{
+  "unit-0": {
+    "value": "0rem",
+    "type": "dimension"
+  },
+  "unit-1": {
+    "value": "0.125rem",
+    "type": "dimension"
+  },
+  "unit-2": {
+    "value": "0.25rem",
+    "type": "dimension"
+  },
+  "unit-3": {
+    "value": "0.375rem",
+    "type": "dimension"
+  },
+  "unit-4": {
+    "value": "0.5rem",
+    "type": "dimension"
+  },
+  "unit-5": {
+    "value": "0.75rem",
+    "type": "dimension"
+  },
+  "unit-6": {
+    "value": "0.875rem",
+    "type": "dimension"
+  },
+  "unit-7": {
+    "value": "1rem",
+    "type": "dimension"
+  },
+  "unit-8": {
+    "value": "1.25rem",
+    "type": "dimension"
+  },
+  "unit-9": {
+    "value": "1.5rem",
+    "type": "dimension"
+  },
+  "unit-10": {
+    "value": "1.75rem",
+    "type": "dimension"
+  },
+  "unit-12": {
+    "value": "2rem",
+    "type": "dimension"
+  }
+}
